@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahani199890&label=Profile%20views&color=0e75b6&style=flat" alt="sahani199890" /> </p>
 <h2> DESCRIPTION</h2>
-<h3> Software developer proficient in Java, Spring Boot, and SQL. Skilled in designing and implementing complex systems, debugging, and problem-solving. Passionate about developing clean and efficient code and constantly expanding my knowledge of new technologies and have done number of proects on Java and Spring Boot.I have hand o experiences on IntelliJ, VSCode, AWS, Postman, Termius, Swagger, etc.</h3>
+<h3> Software developer proficient in Java, Spring Boot, and SQL. Skilled in designing and implementing complex systems, debugging, and problem-solving. Passionate about developing clean and efficient code and constantly expanding my knowledge of new technologies.Done number of projects on Java and Spring Boot.Have hands on experience on tools such as IntelliJ, VSCode, AWS, Postman, Termius, Swagger, etc.</h3>
 <h2>Tools Used</h2>
 <p> 
   <img alt="Swagger" height="80" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1200px-IntelliJ_IDEA_Icon.svg.png">
