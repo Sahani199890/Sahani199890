@@ -11,18 +11,16 @@
 <h3> Software developer proficient in Java, Spring Boot, and SQL. Skilled in designing and implementing complex systems, debugging, and problem-solving. Passionate about developing clean and efficient code and constantly expanding my knowledge of new technologies.Done number of projects on Java and Spring Boot.Have hands on experience on tools such as IntelliJ, VSCode, AWS, Postman, Termius, Swagger, etc.</h3>
 <h2>Tools Used</h2>
 <p> 
-  <img alt="Swagger" height="80" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1200px-IntelliJ_IDEA_Icon.svg.png">
- <img alt="Swagger" height="80" src="https://yt3.googleusercontent.com/X-rhKMndFm9hT9wIaJns1StBfGbFdLTkAROwm4UZ3n9ucrBky5CFIeeZhSszFXBgQjItzCD0SA=s900-c-k-c0x00ffffff-no-rj">
-  <img alt="Swagger" height="80" src="https://static.techspot.com/images2/downloads/topdownload/2020/01/2020-01-28-ts3_thumbs-c3e.png">
-  <img alt="Swagger" height="80"width="130" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzHh7PNuA9yT-5EmSjEgAgWIS75qns2X5RgQ&usqp=CAU">
+  <img alt="IntelliJ" height="80" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1200px-IntelliJ_IDEA_Icon.svg.png">
+ <img alt="Postman" height="80" src="https://yt3.googleusercontent.com/X-rhKMndFm9hT9wIaJns1StBfGbFdLTkAROwm4UZ3n9ucrBky5CFIeeZhSszFXBgQjItzCD0SA=s900-c-k-c0x00ffffff-no-rj">
+  <img alt="MySQL" height="80" src="https://static.techspot.com/images2/downloads/topdownload/2020/01/2020-01-28-ts3_thumbs-c3e.png">
+  <img alt="AWS" height="80"width="130" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzHh7PNuA9yT-5EmSjEgAgWIS75qns2X5RgQ&usqp=CAU">
   <img alt="Swagger" height="80" src="https://static1.smartbear.co/swagger/media/blog/swagger-editor-blog_575x300.png?ext=.png">
-<img alt="Swagger" height="80" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXnsBo5j-tjCktTgM00WclTU4z0o1dNU2V1Pho-vQHl2WnL3iKZuOL40bmM2ZaM4MmE44&usqp=CAU">
-  <img alt="Swagger" height="80" src="https://blog.cloudanalogy.com/wp-content/uploads/2020/03/vsc-01.jpg">
+<img alt="Termius" height="80" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXnsBo5j-tjCktTgM00WclTU4z0o1dNU2V1Pho-vQHl2WnL3iKZuOL40bmM2ZaM4MmE44&usqp=CAU">
+  <img alt="VSCode" height="80" src="https://blog.cloudanalogy.com/wp-content/uploads/2020/03/vsc-01.jpg">
   <img alt="Git Logo" height="80" width="120" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrNey0NJUuet7oxT37OiO795Ldq9G_wpGEaw&usqp=CAU">
-  <p>
-  <h1><img align="right" alt="Swagger" height="250" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif"></h1>
 
-- 🔭 I’m currently working on [Blogging Platform API] -->(https://github.com/Sahani199890/bloggingPlatformAPI) project
+- 🔭 I’m currently working on [Blogging Platform API] -->(https://github.com/Sahani199890/bloggingPlatformAPI)
 
 - 🌱 I’m currently learning --> **Full Stack Web Development**
 
@@ -48,6 +46,6 @@
   <img align="left" height="135"src="https://github-readme-stats.vercel.app/api?username=sahani199890&show_icons=true&locale=en" alt="sahani199890" />
 <img align="right" height="135" src="https://github-readme-streak-stats.herokuapp.com/?user=sahani199890&" alt="sahani199890" />
 </p>
-
+<br>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sahani199890&show_icons=true&locale=en&layout=compact" alt="sahani199890"/></p>
 
