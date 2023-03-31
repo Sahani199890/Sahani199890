@@ -25,9 +25,9 @@
 
 - 🌱 I’m currently learning --> **Full Stack Web Development**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Sahani199890] --> (https://github.com/Sahani199890)
+- 👨‍💻 All of my projects are available at --> (https://github.com/Sahani199890)
 
-- 📝 I often write articles on [https://www.linkedin.com/in/01abhishek-sahani/] --> (https://www.linkedin.com/in/01abhishek-sahani/)
+- 📝 I often write articles on --> (https://www.linkedin.com/in/01abhishek-sahani/)
 
 - 💬 Ask me about --> **Sprig Boot, Java, DSA, OOP, MySQL**
 
