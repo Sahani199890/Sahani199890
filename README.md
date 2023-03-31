@@ -1,4 +1,5 @@
-<h2 align="right">👉<a href="https://drive.google.com/file/d/1igO8oLeIBQ6M3cDSsx7LYjuLDjGkLrxt/view?usp=share_link"><img width="120"src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTB4UElvOe_MgXaCy-Ot2OAxvihSy_W2TisPg&usqp=CAU"> </a></h2>
+<h2 align="right">👉<a href="https://drive.google.com/file/d/1igO8oLeIBQ6M3cDSsx7LYjuLDjGkLrxt/view?usp=share_link"><img width="100"src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTB4UElvOe_MgXaCy-Ot2OAxvihSy_W2TisPg&usqp=CAU"> </a></h2>
+<h1 align="center"><img alt="gif" src="https://cdna.artstation.com/p/assets/images/images/060/460/880/original/pixel-jeff-chill-mario-2023-2.gif?1678633376"></h1>
 
 <h1 align="center"> <img alt="gif" height="30" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzFiNjMzOTBiYzUyOGFmNTVlZDFmMmI0ZDE3NGE5ZjA3YWZiMDYxMSZjdD1n/LtiTOVzhzvGuXaea2m/giphy.gif"> Hello World 👋, I'm Abhishek Sahani <img alt="gif" height="30" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzFiNjMzOTBiYzUyOGFmNTVlZDFmMmI0ZDE3NGE5ZjA3YWZiMDYxMSZjdD1n/LtiTOVzhzvGuXaea2m/giphy.gif"></h1>
 <h3 align="center"> <img alt="india flag gif" height="30" src="https://media3.giphy.com/media/9Gnbm29r7ftUA/200w.webp?cid=ecf05e473za3p49dhmp93wv3n7teyh3wcpip91uh83ll8x4w&rid=200w.webp&ct=g"> I am an enthusiastic software developer hailing from India.
@@ -19,7 +20,7 @@
   <img alt="Swagger" height="80" src="https://blog.cloudanalogy.com/wp-content/uploads/2020/03/vsc-01.jpg">
   <img alt="Git Logo" height="80" width="120" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrNey0NJUuet7oxT37OiO795Ldq9G_wpGEaw&usqp=CAU">
   <p>
-  <h1><img align="right" alt="Swagger" height="250" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47mkza67ga9z181cj4wcckiydtvh4pmv7mpld0hwlm&rid=giphy.gif&ct=g"></h1>
+  <h1><img align="right" alt="Swagger" height="250" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif"></h1>
 
 - 🔭 I’m currently working on [Blogging Platform API] -->(https://github.com/Sahani199890/bloggingPlatformAPI) project
 
@@ -46,6 +47,6 @@
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sahani199890&show_icons=true&locale=en&layout=compact" alt="sahani199890"/></p>
 
 <p>
-  <img align="left" height="180"src="https://github-readme-stats.vercel.app/api?username=sahani199890&show_icons=true&locale=en" alt="sahani199890" />
-<img align="right" height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=sahani199890&" alt="sahani199890" /></p>
+  <img align="left" height="110"src="https://github-readme-stats.vercel.app/api?username=sahani199890&show_icons=true&locale=en" alt="sahani199890" />
+<img align="right" height="110" src="https://github-readme-streak-stats.herokuapp.com/?user=sahani199890&" alt="sahani199890" /></p>
 
