@@ -43,7 +43,10 @@
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sahani199890&show_icons=true&locale=en&layout=compact" alt="sahani199890"/>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sahani199890&show_icons=true&locale=en" alt="sahani199890" />
+</p>
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sahani199890&" alt="sahani199890" />
- </p>
+</p>
 
