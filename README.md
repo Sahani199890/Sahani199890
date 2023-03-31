@@ -41,11 +41,8 @@
 <a href="https://www.leetcode.com/abhishek_sahani/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/abhishek_sahani/" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/1abhisfoyr/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/1abhisfoyr/" height="30" width="40" /></a>
 </p>
-
-<p>
-  <img align="left" height="135"src="https://github-readme-stats.vercel.app/api?username=sahani199890&show_icons=true&locale=en" alt="sahani199890" />
-<img align="right" height="135" src="https://github-readme-streak-stats.herokuapp.com/?user=sahani199890&" alt="sahani199890" />
-</p>
-<br>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sahani199890&show_icons=true&locale=en&layout=compact" alt="sahani199890"/></p>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sahani199890&show_icons=true&locale=en" alt="sahani199890" />
+  <img align="ceter" src="https://github-readme-streak-stats.herokuapp.com/?user=sahani199890&" alt="sahani199890" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sahani199890&show_icons=true&locale=en&layout=compact" alt="sahani199890"/></p>
 
