@@ -56,7 +56,6 @@
   <p align="center">
   <a href="#"><img width="500px" src="https://github-readme-streak-stats.herokuapp.com/?user=sahani199890&hide_border=true&theme=merko"></a></p>
 </details>
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
 
 <p align="center">LUCKY VISITOR NUMBER</br><img title="title" align="center" alt="sahani199890" width="200" src="https://profile-counter.glitch.me/sahani199890/count.svg" /></p>
 
