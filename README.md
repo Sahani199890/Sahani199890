@@ -1,12 +1,13 @@
 <h2 align="right">👉<a href="https://drive.google.com/file/d/1igO8oLeIBQ6M3cDSsx7LYjuLDjGkLrxt/view?usp=share_link"><img width="100"src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTB4UElvOe_MgXaCy-Ot2OAxvihSy_W2TisPg&usqp=CAU"> </a></h2>
 <h1 align="center"><img alt="gif" src="https://cdna.artstation.com/p/assets/images/images/060/460/880/original/pixel-jeff-chill-mario-2023-2.gif?1678633376"></h1>
 
-<h1 align="center"> <img alt="gif" height="30" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzFiNjMzOTBiYzUyOGFmNTVlZDFmMmI0ZDE3NGE5ZjA3YWZiMDYxMSZjdD1n/LtiTOVzhzvGuXaea2m/giphy.gif"> Hello World 👋, I'm Abhishek Sahani <img alt="gif" height="30" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzFiNjMzOTBiYzUyOGFmNTVlZDFmMmI0ZDE3NGE5ZjA3YWZiMDYxMSZjdD1n/LtiTOVzhzvGuXaea2m/giphy.gif"></h1>
+<h1 align="center"> <img alt="gif" height="30" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzFiNjMzOTBiYzUyOGFmNTVlZDFmMmI0ZDE3NGE5ZjA3YWZiMDYxMSZjdD1n/LtiTOVzhzvGuXaea2m/giphy.gif"> Hello World <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, I'm Abhishek Sahani <img alt="gif" height="30" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzFiNjMzOTBiYzUyOGFmNTVlZDFmMmI0ZDE3NGE5ZjA3YWZiMDYxMSZjdD1n/LtiTOVzhzvGuXaea2m/giphy.gif">
+<img width="80%" align="center" height="1" src="./assets/bar.gif" /></h1>
+
 <h3 align="center"> <img alt="india flag gif" height="30" src="https://media3.giphy.com/media/9Gnbm29r7ftUA/200w.webp?cid=ecf05e473za3p49dhmp93wv3n7teyh3wcpip91uh83ll8x4w&rid=200w.webp&ct=g"> I am an enthusiastic software developer hailing from India.
 <img alt="india flag gif" height="30" src="https://media3.giphy.com/media/9Gnbm29r7ftUA/200w.webp?cid=ecf05e473za3p49dhmp93wv3n7teyh3wcpip91uh83ll8x4w&rid=200w.webp&ct=g">
 </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sahani199890&label=Profile%20views&color=0e75b6&style=flat" alt="sahani199890" /> </p>
 <h2> DESCRIPTION</h2>
 <h3> Software developer proficient in Java, Spring Boot, and SQL. Skilled in designing and implementing complex systems, debugging, and problem-solving. Passionate about developing clean and efficient code and constantly expanding my knowledge of new technologies.Done number of projects on Java and Spring Boot.Have hands on experience on tools such as IntelliJ, VSCode, AWS, Postman, Termius, Swagger, etc.</h3>
 <h2>Tools Used</h2>
@@ -41,13 +42,24 @@
 <a href="https://www.leetcode.com/abhishek_sahani/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/abhishek_sahani/" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/1abhisfoyr/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/1abhisfoyr/" height="30" width="40" /></a>
 </p>
-<p>Github stats</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sahani199890&show_icons=true&locale=en&layout=compact" alt="sahani199890"/>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sahani199890&show_icons=true&locale=en" alt="sahani199890" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sahani199890&" alt="sahani199890" />
-</p>
 
+<h3> 💻 GITHUB STATS</h3>
+<p align="center"><a href="#"><img alt="Abhishek Sahani's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=sahani199890&show_icons=true&theme=merko" height="192px" width="360px"></a><br>
+</p>
+  <p align="center">
+  <a href="#"><img alt="Abhishek Sahani's Github Stats" src=https://github-readme-stats.vercel.app/api?username=sahani199890&theme=merko&show_icons=true" height="192px" width="430px"></a>
+  </p>
+  
+
+<details>	
+  <summary><b> Github Streaks 🔥</b></summary><br>
+  <p align="center">
+  <a href="#"><img width="500px" src="https://github-readme-streak-stats.herokuapp.com/?user=sahani199890&hide_border=true&theme=merko"></a></p>
+</details>
+![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+
+<p align="center">LUCKY VISITOR NUMBER</br><img title="title" align="center" alt="sahani199890" width="200" src="https://profile-counter.glitch.me/sahani199890/count.svg" /></p>
+
+<p align="center">
+    <img align="center" width="550px" src="https://user-images.githubusercontent.com/6468571/156074492-bfefbd6c-0545-4f0a-9823-b73b11871e83.png" />
+</p>
