@@ -33,7 +33,7 @@
 
 - 📫 How to reach me --> **sahani199890@gmail.com**
 
-- 📄 Resume --> <a href="https://drive.google.com/file/d/1igO8oLeIBQ6M3cDSsx7LYjuLDjGkLrxt/view?usp=share_link"> <img height="100" src="https://cdn.iconscout.com/icon/free/png-256/resume-1956282-1650445.png"></a>
+- 📄 Resume --> <a href="https://docs.google.com/document/d/1YopmhiCAqMHdWBiYIzFb5wlN65umDAdF/edit?usp=sharing&ouid=111582633320935881139&rtpof=true&sd=true"> <img height="100" src="https://cdn.iconscout.com/icon/free/png-256/resume-1956282-1650445.png"></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
