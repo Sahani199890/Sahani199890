@@ -1,5 +1,5 @@
-<h2 align="right">👉<a href="https://drive.google.com/file/d/1igO8oLeIBQ6M3cDSsx7LYjuLDjGkLrxt/view?usp=share_link"><img width="100"src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTB4UElvOe_MgXaCy-Ot2OAxvihSy_W2TisPg&usqp=CAU"> </a></h2>
-<h1 align="center"><img alt="gif" src="https://cdna.artstation.com/p/assets/images/images/060/460/880/original/pixel-jeff-chill-mario-2023-2.gif?1678633376"></h1>
+<h2 align="right">👉<a href="https://docs.google.com/document/d/1YopmhiCAqMHdWBiYIzFb5wlN65umDAdF/edit?usp=sharing&ouid=111582633320935881139&rtpof=true&sd=true"><Span style=color:"red">Click here</Span> </a></h2>
+<h1 align="center"><img alt="gif" src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966"  width=100%></h1>
 
 <h1 align="center"> <img alt="gif" height="30" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzFiNjMzOTBiYzUyOGFmNTVlZDFmMmI0ZDE3NGE5ZjA3YWZiMDYxMSZjdD1n/LtiTOVzhzvGuXaea2m/giphy.gif"> Hello World <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, I'm Abhishek Sahani <img alt="gif" height="30" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzFiNjMzOTBiYzUyOGFmNTVlZDFmMmI0ZDE3NGE5ZjA3YWZiMDYxMSZjdD1n/LtiTOVzhzvGuXaea2m/giphy.gif">
 <img width="80%" align="center" height="1" src="./assets/bar.gif" /></h1>
@@ -9,7 +9,7 @@
 </h3>
 
 <h2> DESCRIPTION</h2>
-<h3> Software developer proficient in Java, Spring Boot, and SQL. Skilled in designing and implementing complex systems, debugging, and problem-solving. Passionate about developing clean and efficient code and constantly expanding my knowledge of new technologies.Done number of projects on Java and Spring Boot.Have hands on experience on tools such as IntelliJ, VSCode, AWS, Postman, Termius, Swagger, etc.</h3>
+<h3> Software developer proficient in Java, Spring Boot, and SQL. Skilled in designing and implementing complex systems, debugging, and problem-solving. Passionate about developing clean and efficient code and constantly expanding my knowledge of new technologies.Done number of projects on Java, SpringBoot, Junit testing, Hibernate, SQL, HTML, CSS, JavaScript, React JS.Have hands on experience on tools such as IntelliJ, VSCode, AWS, Postman, Termius, Swagger, etc.</h3>
 <h2>Tools Used</h2>
 <p> 
   <img alt="IntelliJ" height="80" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1200px-IntelliJ_IDEA_Icon.svg.png">
@@ -29,11 +29,11 @@
 
 - 📝 I often write articles on --> (https://www.linkedin.com/in/01abhishek-sahani/)
 
-- 💬 Ask me about --> **Sprig Boot, Java, DSA, OOP, MySQL**
+- 💬 Ask me about --> **Java, SpringBoot, Junit testing, Hibernate, SQL, HTML, CSS, JavaScript, React JS**
 
 - 📫 How to reach me --> **sahani199890@gmail.com**
 
-- 📄 Resume --><a href="https://drive.google.com/file/d/1igO8oLeIBQ6M3cDSsx7LYjuLDjGkLrxt/view?usp=share_link"> <img height="100" src="https://cdn.iconscout.com/icon/free/png-256/resume-1956282-1650445.png"></a>
+- 📄 Resume --> <a href="https://drive.google.com/file/d/1igO8oLeIBQ6M3cDSsx7LYjuLDjGkLrxt/view?usp=share_link"> <img height="100" src="https://cdn.iconscout.com/icon/free/png-256/resume-1956282-1650445.png"></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
