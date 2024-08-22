@@ -22,9 +22,6 @@
   <img alt="VSCode" height="80" src="https://blog.cloudanalogy.com/wp-content/uploads/2020/03/vsc-01.jpg">
   <img alt="Git Logo" height="80" width="120" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrNey0NJUuet7oxT37OiO795Ldq9G_wpGEaw&usqp=CAU">
 <i>
-- 🔭 I’m currently working on [Blogging Platform API] -->(https://github.com/Sahani199890/bloggingPlatformAPI)
-
-- 🌱 I’m currently learning --> **Full Stack Web Development**
 
 - 👨‍💻 All of my projects are available at --> (https://github.com/Sahani199890)
 
