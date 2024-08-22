@@ -1,16 +1,17 @@
-<h2 align="right">👉<a href="https://docs.google.com/document/d/1YopmhiCAqMHdWBiYIzFb5wlN65umDAdF/edit?usp=sharing&ouid=111582633320935881139&rtpof=true&sd=true"><Span style=color:"red">Click here</Span> </a></h2>
+<p align="right">👉<a href="https://docs.google.com/document/d/1HeEkr6ZxXwDRXBxH6ZM4T22DTOBsKwjdjHNISRhO090/edit?usp=sharing" style="text-decoration:none"><i>My Resume</i></a></p>
 <h1 align="center"><img alt="gif" src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966"  width=100%></h1>
 
-<h1 align="center"> <img alt="gif" height="30" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzFiNjMzOTBiYzUyOGFmNTVlZDFmMmI0ZDE3NGE5ZjA3YWZiMDYxMSZjdD1n/LtiTOVzhzvGuXaea2m/giphy.gif"> Hello World <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, I'm Abhishek Sahani <img alt="gif" height="30" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzFiNjMzOTBiYzUyOGFmNTVlZDFmMmI0ZDE3NGE5ZjA3YWZiMDYxMSZjdD1n/LtiTOVzhzvGuXaea2m/giphy.gif">
+<h1 align="center"> <img alt="gif" height="30" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzFiNjMzOTBiYzUyOGFmNTVlZDFmMmI0ZDE3NGE5ZjA3YWZiMDYxMSZjdD1n/LtiTOVzhzvGuXaea2m/giphy.gif"> <i>Hello World</i> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /><i>, I'm Abhishek Sahani</i> <img alt="gif" height="30" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzFiNjMzOTBiYzUyOGFmNTVlZDFmMmI0ZDE3NGE5ZjA3YWZiMDYxMSZjdD1n/LtiTOVzhzvGuXaea2m/giphy.gif">
 <img width="80%" align="center" height="1" src="./assets/bar.gif" /></h1>
 
-<h3 align="center"> <img alt="india flag gif" height="30" src="https://media3.giphy.com/media/9Gnbm29r7ftUA/200w.webp?cid=ecf05e473za3p49dhmp93wv3n7teyh3wcpip91uh83ll8x4w&rid=200w.webp&ct=g"> I am an enthusiastic software developer hailing from India.
+<h3 align="center"> <img alt="india flag gif" height="30" src="https://media3.giphy.com/media/9Gnbm29r7ftUA/200w.webp?cid=ecf05e473za3p49dhmp93wv3n7teyh3wcpip91uh83ll8x4w&rid=200w.webp&ct=g"> <i>I am an enthusiastic software developer hailing from India.</i>
 <img alt="india flag gif" height="30" src="https://media3.giphy.com/media/9Gnbm29r7ftUA/200w.webp?cid=ecf05e473za3p49dhmp93wv3n7teyh3wcpip91uh83ll8x4w&rid=200w.webp&ct=g">
 </h3>
 
 <h2> DESCRIPTION</h2>
-<h3> Software developer proficient in Java, Spring Boot, and SQL. Skilled in designing and implementing complex systems, debugging, and problem-solving. Passionate about developing clean and efficient code and constantly expanding my knowledge of new technologies.Done number of projects on Java, SpringBoot, Junit testing, Hibernate, SQL, HTML, CSS, JavaScript, React JS.Have hands on experience on tools such as IntelliJ, VSCode, AWS, Postman, Termius, Swagger, etc.</h3>
-<h2>Tools Used</h2>
+<p><i> Software Engineer with over 1 year of experience in developing and maintaining web applications. Proficient in both frontend and backend technologies including React.js, Redux, Redux-Saga, Spring Boot, and various testing frameworks. Demonstrated expertise in developing user authentication systems, implementing secure payment gateways, and managing comprehensive admin panels. Strong problem-solving skills with a proven track record of debugging and enhancing prewritten code. Experienced in mentoring and supporting students in Java, DSA, Spring Boot, and MySQL. Passionate about learning new technologies and continuously improving coding standards and efficiency.
+</i></p>
+<h2><i>Tools Used</i></h2>
 <p> 
   <img alt="IntelliJ" height="80" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1200px-IntelliJ_IDEA_Icon.svg.png">
  <img alt="Postman" height="80" src="https://yt3.googleusercontent.com/X-rhKMndFm9hT9wIaJns1StBfGbFdLTkAROwm4UZ3n9ucrBky5CFIeeZhSszFXBgQjItzCD0SA=s900-c-k-c0x00ffffff-no-rj">
@@ -20,7 +21,7 @@
 <img alt="Termius" height="80" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXnsBo5j-tjCktTgM00WclTU4z0o1dNU2V1Pho-vQHl2WnL3iKZuOL40bmM2ZaM4MmE44&usqp=CAU">
   <img alt="VSCode" height="80" src="https://blog.cloudanalogy.com/wp-content/uploads/2020/03/vsc-01.jpg">
   <img alt="Git Logo" height="80" width="120" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrNey0NJUuet7oxT37OiO795Ldq9G_wpGEaw&usqp=CAU">
-
+<i>
 - 🔭 I’m currently working on [Blogging Platform API] -->(https://github.com/Sahani199890/bloggingPlatformAPI)
 
 - 🌱 I’m currently learning --> **Full Stack Web Development**
@@ -62,3 +63,4 @@
 <p align="center">
     <img align="center" width="550px" src="https://user-images.githubusercontent.com/6468571/156074492-bfefbd6c-0545-4f0a-9823-b73b11871e83.png" />
 </p>
+</i>
