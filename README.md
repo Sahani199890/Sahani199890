@@ -15,7 +15,7 @@
 
 ## 👨‍💻 About Me
 
-Full-Stack Developer with around **4 years of experience** building production web applications and AI-powered products using React.js, Redux, Node.js, Spring Boot, MySQL and Python.
+Full-Stack Developer with **4+ years of experience** building production web applications and AI-powered products using React.js, Redux, Node.js, Spring Boot, MySQL and Python.
 
 I'm currently a **Team Lead at Voltuswave**, leading **14 engineers** to deliver **QMentis**, an enterprise AI platform with RAG on Pinecone and model-agnostic LLM workflows orchestrated with LangChain and LangSmith. I've also built an **Agentic Dashboard Builder** powered by MCP and integrated global tax compliance (GST and UAE e-invoicing).
 
